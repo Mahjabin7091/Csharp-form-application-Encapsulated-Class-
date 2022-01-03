@@ -1,0 +1,6 @@
+GJ	6	True	6	
+FDVGFDF	6	True	3	
+FDVGFDFY	60	True	3	
+TOOTH	200	True	10	
+TOOTH1	200	True	5	
+ALI	9	True	5	
